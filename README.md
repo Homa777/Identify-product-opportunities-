@@ -5,9 +5,9 @@ The pdf file of project is
 
 Obejectives of this project are:
 
-1. Creating dataset by scraping national instrument forum to make a dataset containing comments mentioned in their forum. ( I did make this dataset using beautifulsoup library in python
+1. Creating dataset by scraping national instrument forum to make a dataset containing comments mentioned in their forum. ( I did make this dataset using beautifulsoup library in python.
 2. Classification of comments mentioned in the forum to two categories of IMPROVEMENT IDEAS and NON-IMPROVEMNT IDEAS. Since all the comments in the forum may not contain ideas that we could utilize them as a source to analyze them and extract improvement ideas from them, I classify those non-relavent ones and disregard the other comments.
-3. Train our model to automate classification 
+3. Train our model to automate classification. 
 4. Extract product opportunities using chance discovery algorithm. 
 
 # Scraping national instrument website forum

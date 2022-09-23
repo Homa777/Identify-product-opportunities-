@@ -1,6 +1,6 @@
 # Indetifying Product opportunities for National Instrument company 
 
-To see full project click here https://www.researchgate.net/publication/363767154_Identifying_product_development_opportunities_using_topic_modeling_and_chance_discovery
+The pdf file of project is here <a href=https://www.researchgate.net/publication/363767154_Identifying_product_development_opportunities_using_topic_modeling_and_chance_discovery</a>
 Obejectives of this project are:
 
 1. Creating dataset by scraping national instrument forum to make a dataset containing comments mentioned in their forum. ( I did make this dataset using beautifulsoup library in python

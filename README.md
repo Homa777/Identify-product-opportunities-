@@ -19,5 +19,5 @@ Besides, numbers of replies that each question got are scraped to give us insigh
 
 # Reference:
 
-1. https://researchportal.port.ac.uk/en/publications/social-media-mining-for-ideation-identification-of-sustainable-so
-2. https://www.semanticscholar.org/paper/IdeaGraph%3A-Turning-Data-into-Human-Insights-for-Wang-Ohsawa/445e8ea60969c50a9738012c09922efde443f2b5
+1.Wang, H., Ohsawa, Y., Lv, P., Hu, X., & Xu, F. 2014. IdeaGraph: Turning Data into Human Insights for Collective Intelligence. In F. Sun, T. Li, & H. Li (Eds.), Foundations and Applications of Intelligent Systems, 213: 33–44. https://www.semanticscholar.org/paper/IdeaGraph%3A-Turning-Data-into-Human-Insights-for-Wang-Ohsawa/445e8ea60969c50a9738012c09922efde443f2b5
+2.Ozcan, S., Suloglu, M., Okan, S. 2021. Social media mining for ideation: Identiﬁcation of sustainable solutions and opinion. Technovation  102322.https://researchportal.port.ac.uk/en/publications/social-media-mining-for-ideation-identification-of-sustainable-so

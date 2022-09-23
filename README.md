@@ -1,4 +1,6 @@
 # Indetifying Product opportunities for National Instrument company 
+
+To see full project click here https://www.researchgate.net/publication/363767154_Identifying_product_development_opportunities_using_topic_modeling_and_chance_discovery
 Obejectives of this project are:
 
 1. Creating dataset by scraping national instrument forum to make a dataset containing comments mentioned in their forum. ( I did make this dataset using beautifulsoup library in python
@@ -12,3 +14,10 @@ This code builds the dataset containing questions asked by users along with thei
 This code used Beautifulsoup library and can scrape multiple pages to achieve not only the questions of users but also their reputation of them. The number of offered solutions and Kudos rate of each users are extracted. 
                                                               
 Besides, numbers of replies that each question got are scraped to give us insight about how much each single comment is important for the forum.
+
+
+
+# Reference:
+
+1. https://researchportal.port.ac.uk/en/publications/social-media-mining-for-ideation-identification-of-sustainable-so
+2. https://www.semanticscholar.org/paper/IdeaGraph%3A-Turning-Data-into-Human-Insights-for-Wang-Ohsawa/445e8ea60969c50a9738012c09922efde443f2b5
